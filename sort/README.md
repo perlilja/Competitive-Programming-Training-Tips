@@ -1,8 +1,6 @@
 ## Input
 
-N Cases
-L Length
-I Items
+N Cases, L Length, I Items
 
 ## Input Examples
 
