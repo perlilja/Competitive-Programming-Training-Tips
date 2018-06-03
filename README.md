@@ -1,1 +1,1 @@
-# Competitive-Programming-Training-Tips
+# Competitive Programming Training Tips
