@@ -1,6 +1,3 @@
-package Sort;
-
-
 public class MaxBinHeapsort<T extends Comparable<T>> {
 
     private T[] priorityQueue;
